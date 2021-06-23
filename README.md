@@ -1,4 +1,4 @@
-#MetaIdea Fork Description
+# MetaIdea Fork Description
 
 With this fork I'm providing a ready to use precompiled pack for WINDOWS x64. Since it seems impossible to get thos telegram bot easily working with luarocks I took all the hard work on me and compiled the libs (like ssl, libssl, libcrypto) manually for windows x64. The release is cleanly organized with just 3 components in the root folder:
 1. start.bat file to start the server
@@ -7,7 +7,7 @@ With this fork I'm providing a ready to use precompiled pack for WINDOWS x64. Si
 
 There is also a server_advanced.lua with some more extensive codings. Use the server.lua for a minimal example to start with.
 
-# Here is the original project readme, MetaIdea end:
+The following is the original project readme, MetaIdea end:
 
 # telegram-bot-lua
 
