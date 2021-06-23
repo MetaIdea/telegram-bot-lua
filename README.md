@@ -1,3 +1,11 @@
+#MetaIdea Fork Description
+
+With this fork I'm providing a ready to use precompiled pack for WINDOWS x64. Since it seems impossible to get thos telegram bot easily working with luarocks I took all the hard work on me and compiled the libs (like ssl, libssl, libcrypto) manually for windows x64. The release is cleanly organized with just 3 components in the root folder:
+1. start.bat file to start the server, 2. server.lua that contains all your telegram bot server code and 3. lua folder that contains all the dependencies.
+There is also a server_advanced.lua with some more extensive codings. Use the server.lua for a minimal example to start with.
+
+# Here is the original project readme, MetaIdea end:
+
 # telegram-bot-lua
 
 A feature-filled Telegram bot API library written in Lua, created by [Matt](https://t.me/wrxck). This library includes functions that allow you to use any Telegram bot API method. It is frequently updated and also includes extensive tools to reduce the amount of code needed to perform more elaborate and complex actions.
