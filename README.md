@@ -4,6 +4,7 @@ With this fork I'm providing a ready to use precompiled pack for WINDOWS x64. Si
 1. start.bat file to start the server
 2. server.lua that contains all your telegram bot server code
 3. lua folder that contains all the dependencies.
+
 There is also a server_advanced.lua with some more extensive codings. Use the server.lua for a minimal example to start with.
 
 # Here is the original project readme, MetaIdea end:
